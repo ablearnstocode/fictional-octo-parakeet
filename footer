@@ -1,0 +1,41 @@
+<h1 style="text-align: center;"><a target="_blank" href="https://www.stanza.co/plus?src=iterable"><img alt="Stanza Plus" width="291" height="28" src="https://d2axdqolvqmdvx.cloudfront.net/915b71a2-6be1-4148-93a4-1bb120b3dacf/stanza.png" /></a>
+  <br />
+  <span style="color:#eaf2fe;"><span style="font-size:12px;">A new way to follow what you love.</span></span>
+</h1>
+<div style="text-align: center;">
+  <div><a target="_blank" href="https://twitter.com/stanzacal?src=iterable"><img alt="Follow us on Twitter @stanzacal" width="37" height="31" src="https://d2axdqolvqmdvx.cloudfront.net/510d9bd9-3e96-43bf-a541-0caa5fa73504/Twittercolor.png" /></a>&nbsp; &nbsp; &nbsp;<a target="_blank" href="https://www.instagram.com/stanza_plus/?src=iterable"><img alt="Follow us on Instagram @stanza_plus" width="30" height="30" src="https://d2axdqolvqmdvx.cloudfront.net/0a01d9c6-f64f-40a2-adc6-955b7ac064bb/Instagramcolor.png" /></a>&nbsp; &nbsp; &nbsp;&nbsp;<a target="_blank" href="https://www.facebook.com/stanzaplus?src=iterable"><img alt="Follow us on Facebook @stanzaplus" width="30" height="30" src="https://d2axdqolvqmdvx.cloudfront.net/166d1ec6-c554-4a75-9cb3-1c0586b12512/Facebookcolor.png" /></a>
+  </div>
+  <h1><span style="font-size:12px;"><a style="text-decoration:none;" target="_blank" href="{{unsubscribeUrl}}"><span style="color:#eaf2fe;">Unsubscribe</span></a><span style="color:#eaf2fe;"> | </span><a style="text-decoration:none;" target="_blank" href="https://www.stanza.co/learnmore?flip=true&amp;src=iterable"><span style="color:#eaf2fe;">About Us</span></a></span>
+    <br />
+    <span style="color:#eaf2fe; display: inline-block; line-height: 12px;"><span style="font-size:12px;">1735 McAllister Street, SF, CA 94115
+      <br />
+      © 2020 Stanza Plus</span></span>
+  </h1>
+  <p style="font-style:italic;"><span style="color:#eaf2fe;"><span style="font-size:10px;">*Offer applies to the purchase of a one-year subscription to Stanza Plus. This offer cannot be combined with other discounts or applied after an order has been placed. One redemption per person. Offer not valid on previous subscriptions to Stanza Plus. Offer cannot be redeemed for cash. Terms of offer are subject to change.</span></span>
+  </p>
+</div>
+<link href="https://fonts.googleapis.com/css?family=Nunito:200,200i,300,300i,400,400i,600,600i,700,700i,800,800i,900,900i+Display|Open+Sans:400,300,700" rel="stylesheet" type="text/css" />
+<style type="text/css">h1,h2,h3,h4,h5,p {
+  font-family: 'Nunito', 'Open Sans', 'Helvetica', 'Arial', san-serif !important;
+  font-weight: 300 !important;
+  padding-left: 10px !important;
+  padding-right: 10px !important;
+  background-color: #2a3744;
+  }
+  h1 {
+    line-height:25px !important;
+    font-size: 28px !important;
+    color: #000000 !important;
+    padding-bottom: 0px !important;
+    padding-top: 0px !important;
+    font-weight: 600 !important;
+  }
+  p {
+    line-height:10px !important;
+    font-size: 16px !important;
+    color: #000000 !important;
+    padding-top: 0px !important;
+    padding-bottom: 0px !important;
+    font-weight: 600 !important;
+  }
+</style>
