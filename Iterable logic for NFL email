@@ -1,0 +1,15 @@
+<p style="font-family: Nunito, Open Sans, Helvetica, sans-serif; font-weight: 700; font-size: 20px; line-height: 28px; text-align: left;color:#2a3744;">
+  {{first_name}},
+  {{#assign "count"}}0{{/assign}}
+  {{#each calendars}}
+    {{#ifContainsStr shortname "nfl-"}}
+      {{#ifLt count 1}}
+        your {{Name}} calendar will automatically updated once the 2021-22 schedule drops.
+        {{#assign "count"}}{{math count '+' 1}}{{/assign}}
+      {{/ifLt}}
+    {{/ifContainsStr}}
+  {{/each}}
+</p>
+<p style="font-weight: 400; font-size: 18px; text-align: left;color:#5F6369;">
+  No need to resubscribe. We're also adding NFL Draft and Training Camp to your calendar. Sign in and head to your <a href="https://www.stanza.co/plus?src=iterable&discount=GETSTARTED"><span style="color:#22C1EE;font-weight:700;text-decoration:underline;text-decoration-color:#22C1EE;">My Calendars</span></a> page to personalize alerts.
+</p>
