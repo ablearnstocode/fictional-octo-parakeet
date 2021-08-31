@@ -1,0 +1,180 @@
+<!DOCTYPE html>
+<html lang="en">
+  
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content=
+        "width=device-width, initial-scale=1.0">
+    <title>
+        Stanza Recommendations Survey
+    </title>
+ <link href="https://fonts.googleapis.com/css?family=Nunito:200,200i,300,300i,400,400i,600,600i,700,700i,800,800i,900,900i+Display|Open+Sans:400,300,700" rel="stylesheet" type="text/css" />
+ 
+    <style>
+ 
+        /* Styling the Body element i.e. Color,
+        Font, Alignment */
+        body {
+            background-color: #ffffff;
+            font-family: Nunito, Open Sans, Helvetica, sans-serif;
+            text-align: left;
+            margin-left: 50px;
+            line-height: 12px;
+            margin-top: 50px;
+        }
+ 
+        /* Styling the Form (Color, Padding, Shadow) */
+        form {
+            background-color: #fff;
+            max-width: 500px;
+            margin-left: 0px;
+            padding: 30px 20px;
+        }
+   @media screen and (max-width: 600px) {
+  .column {
+    width: 100%;
+  }
+}
+        /* Styling form-control Class */
+        .form-control {
+            text-align: left;
+            margin-bottom: 25px;
+        }
+ 
+        /* Styling form-control Label */
+        .form-control label {
+            display: block;
+            margin-bottom: 10px;
+        }
+ 
+        /* Styling form-control input,
+        select, textarea */
+        .form-control input,
+        .form-control select,
+        .form-control textarea {
+            border: 1px solid #777;
+            border-radius: 2px;
+            font-family: Nunito, Open Sans, Helvetica, sans-serif;
+            padding: 10px;
+            display: block;
+            width: 95%;
+        }
+ 
+        /* Styling form-control Radio
+        button and Checkbox */
+        .form-control input[type="radio"],
+        .form-control input[type="checkbox"] {
+            display: inline-block;
+            width: auto;
+        }
+ 
+        /* Styling Button */
+        button {
+ <a href="https://www.stanza.co/plus?#trending" style="background: #5ADB82;
+background: -moz-linear-gradient(-45deg, #5ADB82 0%, #22C1EE 100%);
+background: -webkit-linear-gradient(-45deg, #5ADB82 0%, #22C1EE 100%);
+background: linear-gradient(135deg, #5ADB82 0%, #22C1EE 100%);
+border-radius:32px;
+color: #FFFFFF;
+text-decoration:none;                                                           
+font-size: 20px;
+font-weight: 700;
+border: none;
+text-align: center;
+padding: 10px 32px;
+font-family: Nunito, Open Sans, Helvetica, sans-serif;
+box-shadow: 0 2px 3px rgba(0,0,0,0.16), 0 1px 2px rgba(0,0,0,0.24);
+cursor:pointer;
+">Submit</a>
+
+    </style>
+</head>
+  
+<body>
+    <h1>What are you interested in?</h1><p>We'll use this information to personalize your experience with Stanza.</p>
+  
+    <!-- Create Form -->
+    <form id="form">
+ 
+        <!-- Details -->
+        <div class="form-control">
+            <label for="name" id="label-name">
+                Name
+            </label>
+ 
+            <!-- Input Type Text -->
+            <input type="text"
+                   id="name"
+                   placeholder="Enter your name" />
+        </div>
+  
+        <div class="form-control">
+            <label for="email" id="label-email">
+                Stanza Email
+            </label>
+ 
+            <!-- Input Type Email-->
+            <input type="email"
+                   id="email"
+                   placeholder="Enter your email" />
+        </div>
+  
+        <div class="form-control">
+            <label>U.S. Sports
+                <small>(Check all that apply)</small>
+            </label>
+            <hr class="solid">
+            <!-- Input Type Checkbox -->
+            <div class="row">
+  <div class="column" style="background-color:#aaa;">
+            <label for="inp-1">
+                <input type="checkbox"
+                       name="inp">NFL</input></label>
+            <label for="inp-2">
+                <input type="checkbox"
+                       name="inp">NBA</input></label>
+            <label for="inp-3">
+                <input type="checkbox"
+                       name="inp">NHL</input></label>
+            <label for="inp-4">
+                <input type="checkbox"
+                       name="inp">MLS</input></label>
+            <label for="inp-5">
+                <input type="checkbox"
+                       name="inp">MLB</input></label>
+            <label for="inp-6">
+            </div>
+  <div class="column" style="background-color:#bbb;">
+                <input type="checkbox"
+                       name="inp">AHL</input></label>
+            <label for="inp-7">
+                <input type="checkbox"
+                       name="inp">NWSL</input></label>
+            <label for="inp-8">
+                <input type="checkbox"
+                       name="inp">WNBA</input></label>
+            <label for="inp-9">
+                <input type="checkbox"
+                       name="inp">USL</input></label>
+            <label for="inp-10">
+                <input type="checkbox"
+                       name="inp">NBA G League</input></label>
+            <label for="inp-11">
+                <input type="checkbox"
+                       name="inp">ECHL</input></label>
+                       <label for="inp-12">
+                <input type="checkbox"
+                       name="inp">MLiB</input></label>
+                       <label for="inp-13">
+                        </div>
+                </div>
+            </div>
+  
+        <button type="submit" value="submit">
+            Submit
+        </button>
+    </form>
+</body>
+  
+</html>
